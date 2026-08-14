@@ -1,0 +1,37 @@
+{
+  "status": "prototype approximations until official Alba brand guidelines are supplied",
+  "colors": {
+    "ink": "#101010",
+    "paper": "#FAF8F2",
+    "cream": "#F1E7D2",
+    "alba_red_approx": "#F22316",
+    "velocity_blue_approx": "#146CFF",
+    "baby_blue_2026_approx": "#86C8E8",
+    "signal_pink_approx": "#F05BA7",
+    "paddock_yellow_approx": "#EAB54A"
+  },
+  "type": {
+    "display_preferred": "PP Neue Montreal or licensed equivalent",
+    "editorial_preferred": "PP Editorial New or licensed equivalent",
+    "data": "IBM Plex Mono",
+    "fallback_strategy": "Use local/system/open alternatives if licenses are unavailable. Never bundle unlicensed font files."
+  },
+  "spacing": {
+    "base": 4,
+    "mobile_margin": 20,
+    "tablet_margin": 32,
+    "desktop_margin_min": 48,
+    "desktop_margin_max": 72
+  },
+  "radii": {
+    "small": 8,
+    "medium": 16,
+    "large": 28
+  },
+  "motion": {
+    "fast_ms": 180,
+    "page_ms": 380,
+    "hero_ms": 780,
+    "slow_editorial_ms": 900
+  }
+}

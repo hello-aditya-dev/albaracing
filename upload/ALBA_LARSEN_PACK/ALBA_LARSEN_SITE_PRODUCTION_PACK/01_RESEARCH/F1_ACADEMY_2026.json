@@ -1,0 +1,140 @@
+{
+  "snapshot_date": "2026-08-14",
+  "series": "F1 Academy",
+  "driver": "Alba Larsen",
+  "team": "MP Motorsport",
+  "supported_by": "Ferrari",
+  "number": 12,
+  "standing": 9,
+  "points": 24,
+  "qualifying_head_to_head": {
+    "Alba Larsen": 3,
+    "Nina Gademan": 1,
+    "Esmee Kosterman": 0
+  },
+  "calendar": [
+    {
+      "round": 1,
+      "venue": "Shanghai",
+      "country": "China",
+      "dates": "2026-03-13/2026-03-15",
+      "status": "complete"
+    },
+    {
+      "round": 2,
+      "venue": "Montreal",
+      "country": "Canada",
+      "dates": "2026-05-22/2026-05-24",
+      "status": "complete"
+    },
+    {
+      "round": 3,
+      "venue": "Silverstone",
+      "country": "Great Britain",
+      "dates": "2026-07-03/2026-07-05",
+      "status": "complete"
+    },
+    {
+      "round": 4,
+      "venue": "Zandvoort",
+      "country": "Netherlands",
+      "dates": "2026-08-21/2026-08-23",
+      "status": "next"
+    },
+    {
+      "round": 5,
+      "venue": "Austin",
+      "country": "United States",
+      "dates": "2026-10-22/2026-10-25",
+      "status": "upcoming"
+    },
+    {
+      "round": 6,
+      "venue": "Las Vegas",
+      "country": "United States",
+      "dates": "2026-11-19/2026-11-21",
+      "status": "upcoming"
+    }
+  ],
+  "rounds": [
+    {
+      "round": 1,
+      "venue": "Shanghai",
+      "qualifying": {
+        "position": 2,
+        "time": "2:04.585"
+      },
+      "practice": {
+        "position": 2,
+        "time": "2:05.017"
+      },
+      "races": [
+        {
+          "name": "Reverse Grid Race",
+          "position": 18,
+          "points": 0
+        },
+        {
+          "name": "Feature Race",
+          "position": 8,
+          "points": 4
+        }
+      ],
+      "story": "Best-ever qualifying P2. Took the lead in the Feature Race but a Safety Car restart error cost a potential win."
+    },
+    {
+      "round": 2,
+      "venue": "Montreal",
+      "races": [
+        {
+          "name": "Opening Race",
+          "position": 5,
+          "points": 10
+        },
+        {
+          "name": "Reverse Grid Race",
+          "position": 11,
+          "points": 0,
+          "note": "five-second penalty after crossing line in podium position"
+        },
+        {
+          "name": "Feature Race",
+          "position": 6,
+          "points": 9
+        }
+      ],
+      "story": "Strong points weekend. A Reverse Grid podium on the road was lost after a post-race five-second penalty."
+    },
+    {
+      "round": 3,
+      "venue": "Silverstone",
+      "qualifying": {
+        "position": 13,
+        "time": "2:02.713"
+      },
+      "races": [
+        {
+          "name": "Reverse Grid Race",
+          "position": 10,
+          "points": 0
+        },
+        {
+          "name": "Feature Race",
+          "position": 10,
+          "points": 1
+        }
+      ],
+      "story": "Difficult weekend; later used British F4 and Zandvoort testing to rebuild confidence."
+    }
+  ],
+  "source_ids": [
+    "S02",
+    "S03",
+    "S04",
+    "S05",
+    "S06",
+    "S07",
+    "S08",
+    "S09"
+  ]
+}

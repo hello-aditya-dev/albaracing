@@ -1,0 +1,65 @@
+{
+  "snapshot_date": "2026-08-14",
+  "featured": [
+    {
+      "publication": "Vogue Scandinavia",
+      "category": [
+        "fashion",
+        "profile"
+      ],
+      "title": "Who is Alba Larsen? Meet the 16-year-old Danish driving prodigy",
+      "date": "2025-06-12",
+      "source_id": "S22",
+      "photographer": "Hasse Nielsen",
+      "rights": "third-party editorial; permission required for production image use"
+    },
+    {
+      "publication": "Teen Vogue",
+      "category": [
+        "fashion",
+        "profile"
+      ],
+      "title": "F1 Academy Driver Alba Hurup Larsen on Finding Confidence in Fashion and Racing",
+      "date": "2025-11-25",
+      "source_id": "S23",
+      "photographer": "Jocko Graves",
+      "rights": "third-party editorial; permission required"
+    },
+    {
+      "publication": "L'Officiel USA",
+      "category": [
+        "fashion",
+        "campaign"
+      ],
+      "title": "Alba Larsen Embraces Ultra-Cool Confidence for the Tommy Jeans Spring 2026 Campaign",
+      "date": "2026-03-03",
+      "source_id": "S24",
+      "image_credit": "Courtesy of Tommy Jeans",
+      "rights": "request approved campaign assets"
+    },
+    {
+      "publication": "Forbes Australia",
+      "category": [
+        "performance",
+        "data",
+        "profile"
+      ],
+      "title": "From F1 Academy to Ferrari: Alba Larsen's data-driven ambitions",
+      "date": "2026-03-27",
+      "source_id": "S26",
+      "rights": "third-party editorial; do not reuse imagery without permission"
+    },
+    {
+      "publication": "Formula1.com",
+      "category": [
+        "culture",
+        "book",
+        "G.I.R.L."
+      ],
+      "title": "The best off-track storylines of the 2025 F1 ACADEMY season",
+      "date": "2025-12-30",
+      "source_id": "S30",
+      "rights": "use as factual reference"
+    }
+  ]
+}

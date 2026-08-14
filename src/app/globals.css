@@ -1,0 +1,244 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+  --color-sidebar-ring: var(--sidebar-ring);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar: var(--sidebar);
+  --color-chart-5: var(--chart-5);
+  --color-chart-4: var(--chart-4);
+  --color-chart-3: var(--chart-3);
+  --color-chart-2: var(--chart-2);
+  --color-chart-1: var(--chart-1);
+  --color-ring: var(--ring);
+  --color-input: var(--input);
+  --color-border: var(--border);
+  --color-destructive: var(--destructive);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-accent: var(--accent);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-muted: var(--muted);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-secondary: var(--secondary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-primary: var(--primary);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-popover: var(--popover);
+  --color-card-foreground: var(--card-foreground);
+  --color-card: var(--card);
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+
+  /* Alba design tokens */
+  --color-alba-ink: #101010;
+  --color-alba-paper: #FAF8F2;
+  --color-alba-cream: #F1E7D2;
+  --color-alba-red: #F22316;
+  --color-alba-blue: #146CFF;
+  --color-alba-baby-blue: #86C8E8;
+  --color-alba-pink: #F05BA7;
+  --color-alba-yellow: #EAB54A;
+
+  /* Fonts */
+  --font-display: var(--font-geist-sans);
+  --font-editorial: Georgia, "Times New Roman", serif;
+  --font-data: var(--font-geist-mono);
+}
+
+:root {
+  --radius: 0.625rem;
+  --background: #FAF8F2;
+  --foreground: #101010;
+  --card: #FAF8F2;
+  --card-foreground: #101010;
+  --popover: #FAF8F2;
+  --popover-foreground: #101010;
+  --primary: #101010;
+  --primary-foreground: #FAF8F2;
+  --secondary: #F1E7D2;
+  --secondary-foreground: #101010;
+  --muted: #F1E7D2;
+  --muted-foreground: #6B6560;
+  --accent: #F1E7D2;
+  --accent-foreground: #101010;
+  --destructive: #F22316;
+  --border: #E5DFD5;
+  --input: #E5DFD5;
+  --ring: #86C8E8;
+  --chart-1: #F22316;
+  --chart-2: #146CFF;
+  --chart-3: #86C8E8;
+  --chart-4: #F05BA7;
+  --chart-5: #EAB54A;
+  --sidebar: #FAF8F2;
+  --sidebar-foreground: #101010;
+  --sidebar-primary: #101010;
+  --sidebar-primary-foreground: #FAF8F2;
+  --sidebar-accent: #F1E7D2;
+  --sidebar-accent-foreground: #101010;
+  --sidebar-border: #E5DFD5;
+  --sidebar-ring: #86C8E8;
+}
+
+.dark {
+  --background: #101010;
+  --foreground: #FAF8F2;
+  --card: #1A1816;
+  --card-foreground: #FAF8F2;
+  --popover: #1A1816;
+  --popover-foreground: #FAF8F2;
+  --primary: #FAF8F2;
+  --primary-foreground: #101010;
+  --secondary: #2A2622;
+  --secondary-foreground: #FAF8F2;
+  --muted: #2A2622;
+  --muted-foreground: #A09A94;
+  --accent: #2A2622;
+  --accent-foreground: #FAF8F2;
+  --destructive: #F22316;
+  --border: #2A2622;
+  --input: #2A2622;
+  --ring: #86C8E8;
+  --chart-1: #F22316;
+  --chart-2: #146CFF;
+  --chart-3: #86C8E8;
+  --chart-4: #F05BA7;
+  --chart-5: #EAB54A;
+  --sidebar: #1A1816;
+  --sidebar-foreground: #FAF8F2;
+  --sidebar-primary: #FAF8F2;
+  --sidebar-primary-foreground: #101010;
+  --sidebar-accent: #2A2622;
+  --sidebar-accent-foreground: #FAF8F2;
+  --sidebar-border: #2A2622;
+  --sidebar-ring: #86C8E8;
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: #D4CEC4;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #B0A99E;
+}
+
+/* Smooth scroll for hash navigation */
+html {
+  scroll-behavior: smooth;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Font face for IBM Plex Mono */
+@font-face {
+  font-family: 'IBM Plex Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('https://fonts.gstatic.com/s/ibmplexmono/v19/-F63fMqyL7x0JtcdnvFO2g.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'IBM Plex Mono';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('https://fonts.gstatic.com/s/ibmplexmono/v19/-F6pfMqyL7x0JtcdnvFM4g.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'IBM Plex Mono';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('https://fonts.gstatic.com/s/ibmplexmono/v19/-F6qfMqyL7x0JtcdnvJMu6T0kQ.woff2') format('woff2');
+}
+
+/* Utility classes */
+.font-display {
+  font-family: var(--font-display);
+  letter-spacing: -0.02em;
+}
+
+.font-editorial {
+  font-family: var(--font-editorial);
+}
+
+.font-data {
+  font-family: 'IBM Plex Mono', var(--font-geist-mono), monospace;
+  letter-spacing: 0.02em;
+}
+
+/* Section transitions */
+.section-divider {
+  height: 1px;
+  background: linear-gradient(90deg, transparent, #E5DFD5, transparent);
+}
+
+/* Placeholder asset styling */
+.asset-placeholder {
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(135deg, #F1E7D2 0%, #FAF8F2 50%, #E5DFD5 100%);
+}
+
+.asset-placeholder::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: repeating-linear-gradient(
+    45deg,
+    transparent,
+    transparent 10px,
+    rgba(0,0,0,0.02) 10px,
+    rgba(0,0,0,0.02) 20px
+  );
+}
+
+/* Number highlight */
+.number-highlight {
+  font-family: 'IBM Plex Mono', var(--font-geist-mono), monospace;
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+}

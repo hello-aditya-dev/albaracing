@@ -1,0 +1,19 @@
+{
+  "concept": {
+    "title": "Alba Larsen \u2014 Independent Website Concept",
+    "description": "Independent digital concept for Danish racing driver Alba Larsen, connecting racing, performance, culture and G.I.R.L.",
+    "robots": "noindex,nofollow"
+  },
+  "official_after_approval": {
+    "title": "Alba Larsen \u2014 Racing Driver, Ferrari Driver Academy",
+    "description": "Official home of Danish racing driver Alba Larsen. Racing, story, G.I.R.L., partnerships, press and life beyond the track.",
+    "robots": "index,follow"
+  },
+  "structured_data": {
+    "@type": "Person",
+    "name": "Alba Larsen",
+    "nationality": "Danish",
+    "birthDate": "2008-12-12",
+    "jobTitle": "Racing driver"
+  }
+}

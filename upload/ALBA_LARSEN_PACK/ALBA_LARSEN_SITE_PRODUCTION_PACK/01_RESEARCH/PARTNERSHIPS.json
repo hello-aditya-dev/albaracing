@@ -1,0 +1,53 @@
+{
+  "snapshot_date": "2026-08-14",
+  "current_verified": [
+    {
+      "name": "Scuderia Ferrari Driver Academy",
+      "relationship": "driver development / academy member",
+      "source_ids": [
+        "S11",
+        "S12"
+      ]
+    },
+    {
+      "name": "Ferrari",
+      "relationship": "2026 F1 Academy support identity",
+      "source_ids": [
+        "S01",
+        "S12"
+      ]
+    },
+    {
+      "name": "MP Motorsport",
+      "relationship": "F1 Academy team",
+      "source_ids": [
+        "S13",
+        "S14"
+      ]
+    },
+    {
+      "name": "WHOOP",
+      "relationship": "three-year partnership; global ambassador",
+      "source_ids": [
+        "S18"
+      ]
+    },
+    {
+      "name": "Tommy Jeans / Tommy Hilfiger",
+      "relationship": "2025 F1 Academy partner; 2026 Tommy Jeans global brand ambassador/campaign",
+      "source_ids": [
+        "S24",
+        "S25"
+      ]
+    }
+  ],
+  "historical_or_needs_confirmation": [
+    {
+      "name": "Other brands named on older Alba Racing LinkedIn material",
+      "status": "do not publish as current without management confirmation",
+      "source_ids": [
+        "S29"
+      ]
+    }
+  ]
+}

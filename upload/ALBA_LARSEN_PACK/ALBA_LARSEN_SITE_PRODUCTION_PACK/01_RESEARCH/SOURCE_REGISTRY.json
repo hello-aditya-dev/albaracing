@@ -1,0 +1,355 @@
+[
+  {
+    "id": "S01",
+    "tier": 1,
+    "name": "F1 Academy - Alba Larsen driver profile",
+    "url": "https://www.f1academy.com/Racing-Series/Drivers/45/Alba-Larsen",
+    "use_for": [
+      "DOB",
+      "nationality",
+      "team",
+      "car number",
+      "2025 seven top-five finishes",
+      "2025 seventh overall",
+      "Ferrari support",
+      "Kevin Magnussen mentorship"
+    ],
+    "snapshot": "2026-08-14"
+  },
+  {
+    "id": "S02",
+    "tier": 1,
+    "name": "F1 Academy - 2026 driver standings",
+    "url": "https://www.f1academy.com/Racing-Series/Standings/Driver",
+    "use_for": [
+      "current standings",
+      "points by race",
+      "season status"
+    ],
+    "snapshot": "2026-08-14"
+  },
+  {
+    "id": "S03",
+    "tier": 1,
+    "name": "F1 Academy - 2026 season guide/calendar",
+    "url": "https://www.f1academy.com/Latest/6oFS4LRoObj7Bqupqgw9IY/beginners-guide-everything-you-need-to-know-about-the-2026-f1-academy-season-from-drivers-teams-calendar-and-more",
+    "use_for": [
+      "2026 F1 Academy calendar",
+      "car specification",
+      "format"
+    ],
+    "snapshot": "2026-08-14"
+  },
+  {
+    "id": "S04",
+    "tier": 1,
+    "name": "F1 Academy - Shanghai 2026 results",
+    "url": "https://www.f1academy.com/Racing-Series/Results?raceid=22",
+    "use_for": [
+      "Shanghai qualifying P2",
+      "Shanghai results",
+      "practice P2"
+    ],
+    "snapshot": "2026-08-14"
+  },
+  {
+    "id": "S05",
+    "tier": 1,
+    "name": "F1 Academy - Montreal 2026 results",
+    "url": "https://www.f1academy.com/Racing-Series/Results?raceid=24",
+    "use_for": [
+      "Montreal qualifying and results"
+    ],
+    "snapshot": "2026-08-14"
+  },
+  {
+    "id": "S06",
+    "tier": 1,
+    "name": "F1 Academy - Montreal penalty report",
+    "url": "https://www.f1academy.com/Latest/5yOo1ulm9qbnzpWfUYcFG2/larsen-lloyd-and-fisher-penalised-following-montreal-reverse-grid-race",
+    "use_for": [
+      "Montreal reverse-grid P11 after five-second penalty"
+    ],
+    "snapshot": "2026-08-14"
+  },
+  {
+    "id": "S07",
+    "tier": 1,
+    "name": "F1 Academy - Silverstone 2026 results",
+    "url": "https://www.f1academy.com/Racing-Series/Results?raceid=25",
+    "use_for": [
+      "Silverstone qualifying P13",
+      "Silverstone reverse-grid P10",
+      "Silverstone feature P10"
+    ],
+    "snapshot": "2026-08-14"
+  },
+  {
+    "id": "S08",
+    "tier": 1,
+    "name": "F1 Academy - 2026 teammate head-to-head",
+    "url": "https://www.f1academy.com/Latest/1HmQZLEvNjbkx7vdE5cvfq/in-stats-how-every-f1-academy-teammate-head-to-head-stacks-up-at-mid-season",
+    "use_for": [
+      "qualifying head-to-head Larsen 3 Gademan 1",
+      "race head-to-head context"
+    ],
+    "snapshot": "2026-08-14"
+  },
+  {
+    "id": "S09",
+    "tier": 1,
+    "name": "F1 Academy - 2026 ambitions / Shanghai narrative",
+    "url": "https://www.f1academy.com/Latest/2gv102Kg5SNjqIMSZGnuZo/every-opportunity-i-get-we-go-for-the-big-stuff-larsen-lays-out-her-ambitions-for-success-in-2026",
+    "use_for": [
+      "Shanghai best qualifying P2",
+      "led feature race before restart error",
+      "approved quote context"
+    ],
+    "snapshot": "2026-08-14"
+  },
+  {
+    "id": "S10",
+    "tier": 1,
+    "name": "F1 Academy - 2026 helmet story",
+    "url": "https://www.f1academy.com/Latest/2SXvbMIvPcK6Bn8QTBQJW0/for-everyone-its-a-sign-of-personality-the-2026-grid-share-the-stories-behind-their-helmets",
+    "use_for": [
+      "baby-blue helmet rationale",
+      "red-white Denmark/Ferrari reference",
+      "helmet personality philosophy"
+    ],
+    "snapshot": "2026-08-14"
+  },
+  {
+    "id": "S11",
+    "tier": 1,
+    "name": "Ferrari - Alba Larsen and Niccolo Maccagnani new SFDA recruits",
+    "url": "https://www.ferrari.com/en-EN/fda/articles/Scuderia-Ferrari-Driver-Academy-Larsen-Maccagnani",
+    "use_for": [
+      "SFDA joining date 1 Jan 2026"
+    ],
+    "snapshot": "2026-08-14"
+  },
+  {
+    "id": "S12",
+    "tier": 1,
+    "name": "Ferrari - Alba Larsen 2026 F1 Academy campaign",
+    "url": "https://www.ferrari.com/en-EN/fda/articles/sfda-alba-larsen",
+    "use_for": [
+      "Ferrari-backed 2026 F1 Academy campaign",
+      "MP Motorsport",
+      "British F4 programme"
+    ],
+    "snapshot": "2026-08-14"
+  },
+  {
+    "id": "S13",
+    "tier": 1,
+    "name": "MP Motorsport - Alba Larsen driver page",
+    "url": "https://www.mpmotorsport.com/drivers/alba-larsen",
+    "use_for": [
+      "current team profile",
+      "career summary"
+    ],
+    "snapshot": "2026-08-14"
+  },
+  {
+    "id": "S14",
+    "tier": 1,
+    "name": "MP Motorsport - 2026 continuity announcement",
+    "url": "https://www.mpmotorsport.com/news/ferrari-backed-alba-larsen-and-mp-motorsport-to-continue-f1-academy-journey-in-2026",
+    "use_for": [
+      "MP Motorsport relationship",
+      "2025 season context"
+    ],
+    "snapshot": "2026-08-14"
+  },
+  {
+    "id": "S15",
+    "tier": 1,
+    "name": "FIA British F4 - Alba Larsen driver profile",
+    "url": "https://fiaformula4.com/drivers/alba-larsen/",
+    "use_for": [
+      "2026 British F4 participation",
+      "Chris Dittmann Racing"
+    ],
+    "snapshot": "2026-08-14"
+  },
+  {
+    "id": "S16",
+    "tier": 1,
+    "name": "FIA British F4 - Zandvoort event results",
+    "url": "https://fiaformula4.com/events/zandvoort/",
+    "use_for": [
+      "Zandvoort overall P3 result"
+    ],
+    "snapshot": "2026-08-14"
+  },
+  {
+    "id": "S17",
+    "tier": 1,
+    "name": "FIA - 2025 Women in Motorsport Award",
+    "url": "https://api.fia.com/news/fia-recognises-trailblazers-inclusion-new-women-motorsport-and-empowering-disabled-motorsport",
+    "use_for": [
+      "inaugural FIA Women in Motorsport Award",
+      "G.I.R.L. 400+ Denmark participants at award time",
+      "2026 15,000 participant ambition"
+    ],
+    "snapshot": "2026-08-14"
+  },
+  {
+    "id": "S18",
+    "tier": 1,
+    "name": "WHOOP - Alba Larsen partnership",
+    "url": "https://www.whoop.com/us/en/press-center/whoop-partners-with-rising-motorsport-star-alba-larsen/",
+    "use_for": [
+      "three-year WHOOP partnership",
+      "global ambassador",
+      "performance and G.I.R.L. context"
+    ],
+    "snapshot": "2026-08-14"
+  },
+  {
+    "id": "S19",
+    "tier": 2,
+    "name": "Athletics - Alba Racing identity case study",
+    "url": "https://athleticsnyc.com/work/alba-racing/",
+    "use_for": [
+      "existing brand identity",
+      "wordmark philosophy",
+      "avatar",
+      "vibrant palette",
+      "italic secondary typography"
+    ],
+    "snapshot": "2026-08-14"
+  },
+  {
+    "id": "S20",
+    "tier": 2,
+    "name": "G.I.R.L. official website",
+    "url": "https://girlsinternationalracinglab.com/",
+    "use_for": [
+      "initiative mission",
+      "current programme modules",
+      "founder copy"
+    ],
+    "snapshot": "2026-08-14"
+  },
+  {
+    "id": "S21",
+    "tier": 2,
+    "name": "G.I.R.L. press room",
+    "url": "https://girlsinternationalracinglab.com/press",
+    "use_for": [
+      "press discovery",
+      "public impact figures; volatile"
+    ],
+    "snapshot": "2026-08-14"
+  },
+  {
+    "id": "S22",
+    "tier": 2,
+    "name": "Vogue Scandinavia - Alba Hurup Larsen profile",
+    "url": "https://www.voguescandinavia.com/articles/alba-hurup-larsen-interview",
+    "use_for": [
+      "fashion narrative",
+      "career detail",
+      "manager identification",
+      "editorial credit Hasse Nielsen"
+    ],
+    "snapshot": "2026-08-14"
+  },
+  {
+    "id": "S23",
+    "tier": 2,
+    "name": "Teen Vogue - confidence, fashion and racing",
+    "url": "https://www.teenvogue.com/story/f1-academy-driver-alba-hurup-larsen",
+    "use_for": [
+      "fashion-confidence narrative",
+      "public style details",
+      "editorial credit Jocko Graves"
+    ],
+    "snapshot": "2026-08-14"
+  },
+  {
+    "id": "S24",
+    "tier": 2,
+    "name": "L'Officiel USA - Tommy Jeans Spring 2026",
+    "url": "https://www.lofficielusa.com/fashion/alba-hurup-larsen-interview-tommy-jeans-spring-2026-campaign-behind-the-scenes",
+    "use_for": [
+      "Tommy Jeans campaign context",
+      "campaign imagery credit"
+    ],
+    "snapshot": "2026-08-14"
+  },
+  {
+    "id": "S25",
+    "tier": 2,
+    "name": "PVH corporate post - Tommy Jeans Spring 2026",
+    "url": "https://www.linkedin.com/posts/pvh_tommyfamily-tommyhilfiger-activity-7435376122680414209-wZlc",
+    "use_for": [
+      "global brand ambassador designation"
+    ],
+    "snapshot": "2026-08-14"
+  },
+  {
+    "id": "S26",
+    "tier": 2,
+    "name": "Forbes Australia - data-driven ambitions",
+    "url": "https://www.forbes.com.au/life/f1/from-f1-academy-to-ferrari-alba-larsens-data-driven-ambitions/",
+    "use_for": [
+      "human telemetry editorial concept",
+      "performance-data narrative"
+    ],
+    "snapshot": "2026-08-14"
+  },
+  {
+    "id": "S27",
+    "tier": 2,
+    "name": "Forbes Travel Guide - manager and broader profile",
+    "url": "https://stories.forbestravelguide.com/what-drives-16-year-old-racing-phenom-alba-larsen",
+    "use_for": [
+      "manager context",
+      "career profile",
+      "public quotes"
+    ],
+    "snapshot": "2026-08-14"
+  },
+  {
+    "id": "S28",
+    "tier": 1,
+    "name": "Instagram - Alba Racing public profile",
+    "url": "https://www.instagram.com/alba.racing/",
+    "use_for": [
+      "public management email",
+      "current profile wording",
+      "social presence"
+    ],
+    "snapshot": "2026-08-14",
+    "volatile": [
+      "follower_count",
+      "post_count"
+    ]
+  },
+  {
+    "id": "S29",
+    "tier": 2,
+    "name": "Alba Racing LinkedIn company page",
+    "url": "https://www.linkedin.com/company/albaracing",
+    "use_for": [
+      "small-team structure context only"
+    ],
+    "warning": "Contains stale/historical sponsor and programme details. Do not use as current partner source.",
+    "snapshot": "2026-08-14"
+  },
+  {
+    "id": "S30",
+    "tier": 2,
+    "name": "Formula1.com - 2025 F1 Academy off-track storylines",
+    "url": "https://www.formula1.com/en/latest/article/the-best-off-track-storylines-of-the-2025-f1-academy-season.23zq99DMIsSgdhvaEoRje5",
+    "use_for": [
+      "book tour confirmation",
+      "G.I.R.L. and fashion cultural context"
+    ],
+    "snapshot": "2026-08-14"
+  }
+]

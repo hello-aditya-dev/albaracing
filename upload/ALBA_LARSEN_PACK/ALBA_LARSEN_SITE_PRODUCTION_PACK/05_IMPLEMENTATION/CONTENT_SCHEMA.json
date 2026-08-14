@@ -1,0 +1,67 @@
+{
+  "DriverProfile": {
+    "name": "string",
+    "displayName": "string",
+    "dob": "YYYY-MM-DD",
+    "hometown": "string",
+    "nationality": "string",
+    "manager": {
+      "name": "string",
+      "email": "string",
+      "publicSourceId": "string"
+    },
+    "socials": "array"
+  },
+  "Season": {
+    "year": "number",
+    "series": "string",
+    "team": "string",
+    "supportedBy": "string",
+    "number": "number",
+    "standing": {
+      "value": "number",
+      "asOf": "date",
+      "sourceId": "string"
+    },
+    "points": {
+      "value": "number",
+      "asOf": "date",
+      "sourceId": "string"
+    },
+    "rounds": "Round[]"
+  },
+  "Round": {
+    "name": "string",
+    "country": "string",
+    "dateStart": "date",
+    "dateEnd": "date",
+    "status": "complete|next|upcoming",
+    "qualifying": "optional",
+    "races": "RaceResult[]",
+    "story": "string",
+    "sourceIds": "string[]"
+  },
+  "Partner": {
+    "name": "string",
+    "relationship": "string",
+    "current": "boolean",
+    "sourceIds": "string[]",
+    "logoAsset": "optional"
+  },
+  "PressItem": {
+    "publication": "string",
+    "title": "string",
+    "date": "date",
+    "categories": "string[]",
+    "url": "string",
+    "imageAsset": "optional",
+    "rightsStatus": "string"
+  },
+  "AssetSlot": {
+    "key": "string",
+    "localPath": "optional",
+    "sourceReference": "optional",
+    "rightsStatus": "required|approved|owned|placeholder",
+    "alt": "string"
+  }
+}

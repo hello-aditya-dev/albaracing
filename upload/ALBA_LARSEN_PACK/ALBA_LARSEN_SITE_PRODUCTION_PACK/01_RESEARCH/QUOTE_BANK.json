@@ -1,0 +1,49 @@
+{
+  "rules": "Keep verbatim use short. Prefer paraphrase. Always display source attribution. Do not fabricate quotes.",
+  "approved_short_quotes": [
+    {
+      "quote": "Every opportunity I get, we go for the big stuff!",
+      "attribution": "Alba Larsen / F1 Academy",
+      "source_id": "S01"
+    },
+    {
+      "quote": "I want to inspire more girls to follow their passion and dreams — even in worlds dominated by boys.",
+      "attribution": "Alba Hurup Larsen / Athletics case study",
+      "source_id": "S19"
+    },
+    {
+      "quote": "I just want to be really fast.",
+      "attribution": "Alba Larsen / Vogue Scandinavia video",
+      "source_url": "https://www.voguescandinavia.com/articles/alba-hurup-larsen-video"
+    }
+  ],
+  "paraphrase_themes": [
+    {
+      "theme": "fashion as confidence and self-expression",
+      "source_ids": [
+        "S22",
+        "S23"
+      ]
+    },
+    {
+      "theme": "simple helmet design as recognisable personality",
+      "source_ids": [
+        "S10"
+      ]
+    },
+    {
+      "theme": "G.I.R.L. as a way to make first steps into motorsport easier",
+      "source_ids": [
+        "S17",
+        "S20"
+      ]
+    },
+    {
+      "theme": "performance data as another form of telemetry",
+      "source_ids": [
+        "S18",
+        "S26"
+      ]
+    }
+  ]
+}

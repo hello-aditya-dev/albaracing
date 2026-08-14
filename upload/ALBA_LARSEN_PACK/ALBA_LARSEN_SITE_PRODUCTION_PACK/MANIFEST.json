@@ -1,0 +1,130 @@
+{
+  "created": "2026-08-14",
+  "files": [
+    {
+      "path": "01_RESEARCH/CAREER_TIMELINE.json",
+      "bytes": 2020,
+      "sha256": "ea48c35e1da34623c7750e6c474f895eca4018a239d3ac57982ca7c943b247ef"
+    },
+    {
+      "path": "01_RESEARCH/F1_ACADEMY_2026.json",
+      "bytes": 3045,
+      "sha256": "ca1887da0b4966c9e37da9edc9b764fcc28a34f97a2f8d77b4c2b95297920751"
+    },
+    {
+      "path": "01_RESEARCH/FACT_SHEET.md",
+      "bytes": 5758,
+      "sha256": "e4beac02e2a3774fe124bfc267c07a83796241ef8b52c1de147709e680c1d6a2"
+    },
+    {
+      "path": "01_RESEARCH/PARTNERSHIPS.json",
+      "bytes": 1162,
+      "sha256": "95b03da4872e7969d022c492ac3b37b230968bbfb4fce9d7459c7b9774db47c8"
+    },
+    {
+      "path": "01_RESEARCH/PRESS_INDEX.json",
+      "bytes": 1842,
+      "sha256": "be6aeeacc86304e6cf1aa8f9ca554d9ed46e2cbf027c9c440ffe68cb188bd1c7"
+    },
+    {
+      "path": "01_RESEARCH/QUOTE_BANK.json",
+      "bytes": 1315,
+      "sha256": "5e9fbb068022ceeae68a13b6678faaa80d70edc8a7d18b3d51c0a3af0d9a7e43"
+    },
+    {
+      "path": "01_RESEARCH/SOURCE_REGISTRY.json",
+      "bytes": 10156,
+      "sha256": "3d71f3cc7293f0bbbde0c6402c227d058dfe435f1702115a2374d2f2b138a782"
+    },
+    {
+      "path": "02_CONTENT/COPY_DECK.md",
+      "bytes": 6523,
+      "sha256": "b20d7ed982a20641f67a47e088cc9fe298ed1ff18c88936379108812c518e293"
+    },
+    {
+      "path": "02_CONTENT/SEO_METADATA.json",
+      "bytes": 712,
+      "sha256": "09116076df54bbf6e65d63cce5e1102fc66b3606535f874e025b86e9c1d33910"
+    },
+    {
+      "path": "02_CONTENT/SITEMAP.md",
+      "bytes": 931,
+      "sha256": "ae59d5ab7f927e0fc5226c34b6f577c2779ced953d64858c118b818bfddf5cbe"
+    },
+    {
+      "path": "03_DESIGN/COMPONENT_INVENTORY.md",
+      "bytes": 1104,
+      "sha256": "e86f3e216668a89ee79d54dcedf42789717b22753cc06d8152ca00c03b90e6c6"
+    },
+    {
+      "path": "03_DESIGN/CREATIVE_DIRECTION.md",
+      "bytes": 1344,
+      "sha256": "942b262e42f58b9d149a8309f57123395d18679bdf8162e27e8abee9c4c2fc14"
+    },
+    {
+      "path": "03_DESIGN/DESIGN_TOKENS.json",
+      "bytes": 1001,
+      "sha256": "8103390a57d8965c82402a05567437a79257ef7c8ce2c7b3f768e493a9874f51"
+    },
+    {
+      "path": "03_DESIGN/MOTION_SPEC.md",
+      "bytes": 1666,
+      "sha256": "7dc8ac07a4a433d573a01ffead36e9ef45cc52b2b14a6483d2ce68e260c6cf69"
+    },
+    {
+      "path": "03_DESIGN/RESPONSIVE_SYSTEM.md",
+      "bytes": 1393,
+      "sha256": "2a9343e4fcc9226e07f318bd88c56f1dcc5cb2fe808f11af0c98f32978036eb9"
+    },
+    {
+      "path": "04_ASSETS/ASSET_MANIFEST.md",
+      "bytes": 2250,
+      "sha256": "36d97cf4dd4e85adf05c780f5e4d877d9a3f1864789b49a1b56b583fd211cb19"
+    },
+    {
+      "path": "04_ASSETS/RIGHTS_MATRIX.md",
+      "bytes": 2088,
+      "sha256": "334b57f457785abe047dcc552184414dc8cee4a528ddf38891c86887ae7b0ef2"
+    },
+    {
+      "path": "04_ASSETS/VISUAL_REFERENCES.md",
+      "bytes": 1946,
+      "sha256": "a457ce2f8279c53f03abf221c8f6aaa964a2266508a6c16d39c4a5637045afac"
+    },
+    {
+      "path": "05_IMPLEMENTATION/CONTENT_SCHEMA.json",
+      "bytes": 1456,
+      "sha256": "ae08f381987907f8b8a5ec38b9c665d390242c2a9a5b537a8c0b505169334462"
+    },
+    {
+      "path": "05_IMPLEMENTATION/TECHNICAL_ARCHITECTURE.md",
+      "bytes": 3704,
+      "sha256": "3b7b3c7c9c9b23bf2c010a2f600410a8573d0fc312579821790d5c1e03843d7b"
+    },
+    {
+      "path": "06_QA/ACCEPTANCE_TESTS.md",
+      "bytes": 3266,
+      "sha256": "d8406725db0ed55868ce31c54c6cbcb961400758cd46d9c46de0610ff7f867dd"
+    },
+    {
+      "path": "06_QA/RELEASE_CHECKLIST.md",
+      "bytes": 1197,
+      "sha256": "d154389f4b49eb95124c3cd910ff55c36d08a00806b7e8d0734fe0d0ac62a9d8"
+    },
+    {
+      "path": "07_ZAI/LAUNCHER_PROMPT.md",
+      "bytes": 619,
+      "sha256": "90a8f76f1bd50171106667d8f29d7cb69dc3284e194f42d9a19625ad9587a51d"
+    },
+    {
+      "path": "07_ZAI/MASTER_ZAI_BUILD_PROMPT.md",
+      "bytes": 27461,
+      "sha256": "05cd713d09addc6944469a35963e8cb4c46f31a61f9529f86c3e0ae448addad7"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1776,
+      "sha256": "f75657129dd449d12c42cf7f89be0150c0878d1ff384077c9f842bb3a5538732"
+    }
+  ]
+}
